@@ -8,3 +8,6 @@ edition = "2021"
 [dependencies]
 libloading = "0.8"
 lazy_static = "1.4.0"
+byte = "0.2.6"
+log = "0.4.14"
+log4rs = "1.0.0"
